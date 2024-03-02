@@ -18,8 +18,8 @@ I also develop mobile indie games 👾
 </h1>
 <h1 align="center">
 My Socials<br>
-    <img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/telegram.png" alt="telegram"> 
+    [<img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/telegram.png" alt="telegram">](https://github.com/Elyasn0)  
     <img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/gmail.png" alt="gmail">
-    <img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/linkedin.png" alt="linkedin">
+    <img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/linkedin.png" alt="linkedin" >
 </h1>
 
