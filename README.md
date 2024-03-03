@@ -1,23 +1,25 @@
-### Ilya Dementeev
-#### Gamedev Project Manager.
+<h1 align="center">
+Hi 👋 , i'm Ilya <br> I work as a gamedev Project Manager🎮
+<p align="center">
+</p>
+  placeholder
+</h1>
+<h1 align="center">
+I also develop mobile indie games 👾
+<p align="center">
+    <img width="1240" src="https://github.com/elyasn0/elyasn0/blob/main/Images/bannerGames.png" alt="games banner">
+</p>
+</h1>
+<h1 align="center">
+...and a little bit of level design 👷‍♂️
+<p align="center">
+    <img width="1240" src="https://github.com/elyasn0/elyasn0/blob/main/Images/bannerLevelDesign.png" alt="level design  banner">
+</p>
+</h1>
+<h1 align="center">
+My Socials<br>
+    [<img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/telegram.png" alt="telegram">](https://github.com/Elyasn0)  
+    <img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/gmail.png" alt="gmail">
+    <img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/linkedin.png" alt="linkedin" >
+</h1>
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elyasn0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ilya-dementeev-73789b26a?trk=contact-info/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Elyasn1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg' alt='googleplay' height='40'>](https://play.google.com/store/apps/developer?id=Elyasn)  
-
-
-
-<!--
-**elyasn0/elyasn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
