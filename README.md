@@ -1,25 +1,14 @@
 <h1 align="center">
 Hi 👋 , i'm Ilya <br> I work as a gamedev Project Manager🎮
-<p align="center">
-</p>
-  placeholder
-</h1>
-<h1 align="center">
+    <img width="1240" src="https://github.com/elyasn0/elyasn0/blob/main/Images/DGbanner.png" alt="DG banner">
 I also develop mobile indie games 👾
-<p align="center">
     <img width="1240" src="https://github.com/elyasn0/elyasn0/blob/main/Images/bannerGames.png" alt="games banner">
-</p>
-</h1>
-<h1 align="center">
 ...and a little bit of level design 👷‍♂️
-<p align="center">
     <img width="1240" src="https://github.com/elyasn0/elyasn0/blob/main/Images/bannerLevelDesign.png" alt="level design  banner">
-</p>
-</h1>
-<h1 align="center">
 My Socials<br>
-    [<img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/telegram.png" alt="telegram">](https://github.com/Elyasn0)  
-    <img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/gmail.png" alt="gmail">
-    <img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/linkedin.png" alt="linkedin" >
+    <a href="https://t.me/Elyasn1"><img src="https://github.com/elyasn0/elyasn0/blob/main/Images/telegram.png" style="width:36px"></a>
+    <a href="ilyadems0@gmail.com"><img src="https://github.com/elyasn0/elyasn0/blob/main/Images/gmail.png" style="width:36px"></a>
+    <a href="https://www.linkedin.com/in/ilya-dementeev-73789b26a?trk=contact-info"><img src="https://github.com/elyasn0/elyasn0/blob/main/Images/linkedin.png" style="width:36px"></a>
 </h1>
+
 
