@@ -9,8 +9,8 @@ I also develop mobile indie games 👾
     <img width="1240" src="https://github.com/elyasn0/elyasn0/blob/main/Images/bannerLevelDesign.png" alt="level design  banner">
     <br>
     <br>
-    My CV and Projects   <br><img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/cv.png" alt="cv">
-    <img width="36" src="https://github.com/elyasn0/elyasn0/blob/main/Images/projects.png" alt="projects">
+    My CV and Projects   <br><a href="https://drive.google.com/file/d/1RrK38WMyK80N97ikLyj9FKo6tL33APbB/view?usp=sharing"><img src="https://github.com/elyasn0/elyasn0/blob/main/Images/cv.png" style="width:36px"></a>
+    <a href="https://drive.google.com/file/d/1SfwxljGeB1u0UgUwe_8Z_z169LfKEfsT/view?usp=sharing"><img src="https://github.com/elyasn0/elyasn0/blob/main/Images/projects.png" style="width:36px"></a>
     <br>
     <br>
 My Socials<br>
