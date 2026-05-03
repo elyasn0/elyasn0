@@ -2,11 +2,11 @@
 Hi 👋 , i'm Ilya <br> I work as a gamedev Project Manager🎮
 <br>
 <br>
-I also develop mobile indie games 👾
+I also do solo development of indie games for mobile 👾
     <img width="1240" src="https://github.com/elyasn0/elyasn0/blob/main/Images/bannerGames.png" alt="games banner">
     <br>
     <br>
-...and a little bit of level design 👷‍♂️
+...and sometimes level design 👷‍♂️
     <img width="1240" src="https://github.com/elyasn0/elyasn0/blob/main/Images/bannerLevelDesign.png" alt="level design  banner">
     <br>
     <br>
